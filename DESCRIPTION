@@ -16,3 +16,7 @@ Imports:
     shiny,
     testthat,
     renv,
+    here,
+    knitr,
+    rcmdcheck,
+    rmarkdown
