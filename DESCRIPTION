@@ -5,3 +5,14 @@ Authors@R: person("Ronald G.", "Thomas", role = c("aut", "cre"))
 Description: Blog post in ZZCOLLAB reproducible research format.
 License: CC-BY-4.0
 Encoding: UTF-8
+Imports:
+    bsicons,
+    bslib,
+    corrgram,
+    dplyr,
+    ggplot2,
+    googleVis,
+    palmerpenguins,
+    shiny,
+    testthat,
+    renv,
