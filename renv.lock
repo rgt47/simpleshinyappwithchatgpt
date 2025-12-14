@@ -50,6 +50,48 @@
       "Version": "1.1.5",
       "Source": "Repository",
       "Repository": "CRAN"
+    },
+    "bsicons": {
+      "Package": "bsicons",
+      "Version": "0.1.2",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "bslib": {
+      "Package": "bslib",
+      "Version": "0.9.0",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "corrgram": {
+      "Package": "corrgram",
+      "Version": "1.14",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "dplyr": {
+      "Package": "dplyr",
+      "Version": "1.1.4",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "ggplot2": {
+      "Package": "ggplot2",
+      "Version": "4.0.1",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "googleVis": {
+      "Package": "googleVis",
+      "Version": "0.7.3",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "shiny": {
+      "Package": "shiny",
+      "Version": "1.12.1",
+      "Source": "Repository",
+      "Repository": "CRAN"
     }
   }
 }
